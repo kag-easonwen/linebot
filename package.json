@@ -1,0 +1,24 @@
+{
+  "name": "linechat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.16.2",
+    "linebot": "^1.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kag-easonwen/linebot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kag-easonwen/linebot/issues"
+  },
+  "homepage": "https://github.com/kag-easonwen/linebot#readme"
+}
